@@ -1,7 +1,0 @@
-C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\MacrosAndPreProcessors\bin\Debug\MacrosAndPreProcessors.exe.config
-C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\MacrosAndPreProcessors\bin\Debug\MacrosAndPreProcessors.exe
-C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\MacrosAndPreProcessors\bin\Debug\MacrosAndPreProcessors.pdb
-C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\MacrosAndPreProcessors\obj\Debug\MacrosAndPreProcessors.csprojAssemblyReference.cache
-C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\MacrosAndPreProcessors\obj\Debug\MacrosAndPreProcessors.csproj.CoreCompileInputs.cache
-C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\MacrosAndPreProcessors\obj\Debug\MacrosAndPreProcessors.exe
-C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\MacrosAndPreProcessors\obj\Debug\MacrosAndPreProcessors.pdb

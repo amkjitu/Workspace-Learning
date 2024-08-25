@@ -1,7 +1,0 @@
-C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\Threading\bin\Debug\Threading.exe.config
-C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\Threading\bin\Debug\Threading.exe
-C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\Threading\bin\Debug\Threading.pdb
-C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\Threading\obj\Debug\Threading.csprojAssemblyReference.cache
-C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
-C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\Threading\obj\Debug\Threading.exe
-C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\Threading\obj\Debug\Threading.pdb
