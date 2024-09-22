@@ -1,5 +1,4 @@
 <?php
-
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $action = $_GET['action'];
     $ac_no = $_POST['ac_no'];
