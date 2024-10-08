@@ -29,6 +29,12 @@
     "eslint.run": "onType",
     "editor.suggest.showColors": true,
     "editor.suggest.showClasses": true,
-    "vscode-edge-devtools.defaultEntrypoint": "index.html"
+    "vscode-edge-devtools.defaultEntrypoint": "index.html",
+    "phpserver.phpPath": "",
+    "fiveServer.highlight": false,
+    "[php]": {
+      "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "CodeGPT.apiKey": "CodeGPT Plus Beta"
   }
 }

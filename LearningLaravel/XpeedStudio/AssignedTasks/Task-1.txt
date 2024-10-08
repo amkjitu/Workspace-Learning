@@ -1,0 +1,28 @@
+Create a custome helper 
+
+///A Static function which finds jitu in an arran
+//Use case:
+/*
+Arr::findJitu($array) returns the value where jitu is the key
+where $array=['jitu'=>'fixit', 'one' => 'none'];
+*/
+
+Solution
+--------
+1. create a directory 'Helpers' in app/
+2. create a 'Helper.php' 'Helpers'
+3. add this file directory to the composer.json 'files' array:
+    inside composer.json follow this:
+    
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        },
+        "files": [
+            "app/Http/Helpers/Helper.php"
+        ]
+    },
+
+4. now push this to the laravel project using the cmd:
+   'composer dump-autoload'
+

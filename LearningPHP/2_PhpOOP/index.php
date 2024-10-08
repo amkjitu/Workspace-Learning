@@ -1,0 +1,3 @@
+<?php
+///Traits in PHP
+// 
