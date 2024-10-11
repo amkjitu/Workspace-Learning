@@ -1,0 +1,38 @@
+<annotation>
+	<folder>RiceBrownSpot</folder>
+	<filename>BrownSpot (42).jpg</filename>
+	<path>C:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\Thesis_CSE\datasets\50_Rice_Leaf_5_Disease_Dataset\RiceBrownSpot\BrownSpot (42).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RiceBrownSpot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>68</ymin>
+			<xmax>218</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RiceBrownSpot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>49</ymin>
+			<xmax>126</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>

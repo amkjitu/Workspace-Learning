@@ -1,0 +1,38 @@
+<annotation>
+	<folder>RiceSheathBrownRot</folder>
+	<filename>SheathBrownRot (8).jpg</filename>
+	<path>C:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\Thesis_CSE\datasets\50_Rice_Leaf_5_Disease_Dataset\RiceSheathBrownRot\SheathBrownRot (8).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RiceSheathBrownRot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>65</ymin>
+			<xmax>300</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RiceSheathBrownRot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>23</ymin>
+			<xmax>300</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+</annotation>

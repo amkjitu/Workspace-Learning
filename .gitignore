@@ -1,0 +1,19 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+#Dataset ingore korsi. dic/dic1/
+DataScience/Jupyter Notebook/dataset/rice_leaf
+DataScience/Jupyter Notebook/dataset/RiceLeafs_Resized
+
+#deep learning model savefile
+*.h5

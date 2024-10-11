@@ -1,0 +1,5 @@
+{
+    "jupyter.allowUnauthorizedRemoteConnection": true,
+    "jupyter.themeMatplotlibPlots": true,
+    "python.defaultInterpreterPath": "C:\\ProgramData\\Anaconda3\\python.exe"
+}

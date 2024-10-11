@@ -1,0 +1,23 @@
+{
+    "name":"Jitu",
+    "is":"1702028",
+    "email":"amkhanshadhin@gmail.com",
+    "age":26,
+    "CGPA":3.008,
+    "is_active":true,
+    "is_job":null,
+    "education":[
+        {
+            "institute_name":"PSTU",
+            "session":"2017-18",
+            "subjects":["CSIT","CCE","EEE","MAT","PME"]
+        },
+        {
+            "institute_name":"GSC",
+            "session":"2015-16",
+            "subjects":["BAN","ENG","PHY","CHE","MAT","BIO","ICT","REG"]
+        }
+    ]
+
+
+}

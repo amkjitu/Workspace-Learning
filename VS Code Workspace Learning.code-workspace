@@ -1,0 +1,36 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      "**/Thumbs.db": true
+    },
+    "explorerExclude.backup": {},
+    "files.associations": {
+      "MLTable": "yaml"
+    },
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "auto-close-tag.fullMode": true,
+    "html.autoClosingTags": true,
+    "files.autoSave": "onFocusChange",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "eslint.run": "onType",
+    "editor.suggest.showColors": true,
+    "editor.suggest.showClasses": true,
+    "vscode-edge-devtools.defaultEntrypoint": "index.html",
+    "phpserver.phpPath": "",
+    "fiveServer.highlight": false,
+    "[php]": {
+      "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+  }
+}

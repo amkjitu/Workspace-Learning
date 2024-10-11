@@ -1,0 +1,13 @@
+C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\NumericalMethods\bin\Debug\netcoreapp3.1\NumericalMethods.exe
+C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\NumericalMethods\bin\Debug\netcoreapp3.1\NumericalMethods.deps.json
+C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\NumericalMethods\bin\Debug\netcoreapp3.1\NumericalMethods.runtimeconfig.json
+C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\NumericalMethods\bin\Debug\netcoreapp3.1\NumericalMethods.runtimeconfig.dev.json
+C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\NumericalMethods\bin\Debug\netcoreapp3.1\NumericalMethods.dll
+C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\NumericalMethods\bin\Debug\netcoreapp3.1\NumericalMethods.pdb
+C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp3.1\NumericalMethods.csprojAssemblyReference.cache
+C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp3.1\NumericalMethods.AssemblyInfoInputs.cache
+C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp3.1\NumericalMethods.AssemblyInfo.cs
+C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp3.1\NumericalMethods.csproj.CoreCompileInputs.cache
+C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp3.1\NumericalMethods.dll
+C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp3.1\NumericalMethods.pdb
+C:\Users\HP 840 G1\Documents\Visual Studio 2019\Projects\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp3.1\NumericalMethods.genruntimeconfig.cache

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>RiceBlast</folder>
+	<filename>Blast (4).jpg</filename>
+	<path>C:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\Thesis_CSE\datasets\50_Rice_Leaf_5_Disease_Dataset\RiceBlast\Blast (4).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RiceBlast</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>24</ymin>
+			<xmax>83</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RiceBlast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>19</ymin>
+			<xmax>242</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>RiceBacterialBlight</folder>
+	<filename>BacterialBlight (9).jpg</filename>
+	<path>C:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\Thesis_CSE\datasets\50_Rice_Leaf_5_Disease_Dataset\RiceBacterialBlight\BacterialBlight (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RiceBacterialBlight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>12</ymin>
+			<xmax>151</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RiceBacterialBlight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>28</ymin>
+			<xmax>294</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

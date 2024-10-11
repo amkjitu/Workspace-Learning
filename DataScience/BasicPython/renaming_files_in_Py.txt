@@ -1,0 +1,8 @@
+Link-1:
+https://pynative.com/python-rename-file/
+
+Link-2:
+https://www.tutorialspoint.com/rename-multiple-files-using-python#:~:text=To%20rename%20files%20in%20Python,destination%20address%20(new%20name).
+
+Link-3: using cmd
+https://www.youtube.com/watch?app=desktop&v=EaVQ1HhAwys

@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Sorting",
+      "request": "launch",
+      "mainClass": "Sorting"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "LinearSearch"
+    },
+    {
+      "type": "java",
+      "name": "TestDynamicArray",
+      "request": "launch",
+      "mainClass": "TestDynamicArray"
+    }
+  ],
+  "version": "2.0.0"
+}

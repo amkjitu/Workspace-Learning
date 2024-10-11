@@ -1,0 +1,120 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>6f6d409d-73c1-4c6b-8b1b-68316bd68eaa</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Random_Walk_Problem_M.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>LAB_Simulation_and_Modeling</Name>
+    <RootNamespace>LAB_Simulation_and_Modeling</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
+    <TestFramework>Pytest</TestFramework>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Area_of_Irregular_Polygon_Monte_Carlo_Method _M.py" />
+    <Compile Include="Area_of_Irregular_Polygon_Monte_Carlo_Method_P.py" />
+    <Compile Include="Area_of_Irregular_Polygon_Monte_Carlo_Method.py" />
+    <Compile Include="A_Gambling_Game_Monte_Carlo_Method.py" />
+    <Compile Include="A_Gambling_Game_Monte_Carlo_Method _M.py" />
+    <Compile Include="A_Gambling_Game_Monte_Carlo_Method_P.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="A_Pursuit_Problem.py" />
+    <Compile Include="A_Pursuit_Problem_M.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Calculating_the_value_of_PI_Monte_Carlo_Method_M.py" />
+    <Compile Include="Calculating_the_value_of_PI_Monte_Carlo_Method_P.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ChemicalReaction.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chemical_Reaction_M.py" />
+    <Compile Include="Chemical_Reaction_P.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chi-square-test.py" />
+    <Compile Include="chisquaretest auto correlation.py" />
+    <Compile Include="Develop_a_Onetime_Pssword_OTP_P.py" />
+    <Compile Include="Develop_a_Onetime_Pssword_OTP.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Exponential_Distribution.py" />
+    <Compile Include="Exterior Ballistics_M.py" />
+    <Compile Include="Exterior Ballistics.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Kolmogorov-Smirnov_Test.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="NormalDistribution.py" />
+    <Compile Include="Numerial_Integration_Monte_Carlo_Method_P.py" />
+    <Compile Include="Numerial_Integration_Monte_Carlo_Method_M.py" />
+    <Compile Include="Numerial_Integration_Monte_Carlo_Method.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Pearson’s_Chi-Square_Test.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Pearson’s_correlation.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="pk.py" />
+    <Compile Include="Poisons_Distribution_Call_R.py" />
+    <Compile Include="Poker_Test.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Random_Number_using_Congruence.py" />
+    <Compile Include="Random_Number_using_Mid_Square.py" />
+    <Compile Include="Random_Walk_Problem_M.py" />
+    <Compile Include="Random_Walk_Problem_P.py" />
+    <Compile Include="Reliability Problem_M.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Reliability Problem_P.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Runge-Kutta_4th_Order_Method.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Runge-Kutta_and_Amplifiers_Curcuit_Simulation_M.py" />
+    <Compile Include="Runge-Kutta_and_Amplifiers_Curcuit_Simulation.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Serial_Chase_Problem_M.py" />
+    <Compile Include="Serial_Chase_Problem.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Simulation_of_Bombing_Problem_using_Normal_Distribution_M.py" />
+    <Compile Include="Simulation_of_Bombing_Problem_using_Normal_Distribution_P.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="threed.py" />
+    <Compile Include="Unimodal_Multimodal_Normal_D.py" />
+    <Compile Include="Value_of_PI_Monte_Carlo_Method.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

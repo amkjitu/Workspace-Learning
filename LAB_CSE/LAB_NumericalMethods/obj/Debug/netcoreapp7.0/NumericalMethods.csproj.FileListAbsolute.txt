@@ -1,0 +1,15 @@
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\bin\Debug\netcoreapp7.0\NumericalMethods.exe
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\bin\Debug\netcoreapp7.0\NumericalMethods.deps.json
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\bin\Debug\netcoreapp7.0\NumericalMethods.runtimeconfig.json
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\bin\Debug\netcoreapp7.0\NumericalMethods.dll
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\bin\Debug\netcoreapp7.0\NumericalMethods.pdb
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp7.0\NumericalMethods.csproj.AssemblyReference.cache
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp7.0\NumericalMethods.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp7.0\NumericalMethods.AssemblyInfoInputs.cache
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp7.0\NumericalMethods.AssemblyInfo.cs
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp7.0\NumericalMethods.csproj.CoreCompileInputs.cache
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp7.0\NumericalMethods.dll
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp7.0\refint\NumericalMethods.dll
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp7.0\NumericalMethods.pdb
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp7.0\NumericalMethods.genruntimeconfig.cache
+c:\Users\HP 840 G1\Documents\VS Code Projects\Workspace Learning\LearningCSharp\NumericalMethods\obj\Debug\netcoreapp7.0\ref\NumericalMethods.dll

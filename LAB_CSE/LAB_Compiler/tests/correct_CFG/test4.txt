@@ -1,0 +1,3 @@
+S ::= xAc
+A ::= yBb
+B ::= za
