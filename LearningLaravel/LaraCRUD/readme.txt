@@ -1,4 +1,5 @@
 This laravel project is very simple
+-----------------------------------
 #Simple Crud Operation:
 Create Post,
 Read Post,
