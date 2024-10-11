@@ -9,5 +9,3 @@ Delete Post
 1. Make a model of Post with Controller and migrate
 php artisan make:model Post -mc
 
-stash
-
