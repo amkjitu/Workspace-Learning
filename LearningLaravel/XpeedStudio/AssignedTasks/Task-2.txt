@@ -200,3 +200,6 @@ public function post()
 {
     return $this->belongsTo('App\Post', 'foreign_key', 'other_key');
 }
+
+
+///through er guli baki ar polimorphic guli baki
