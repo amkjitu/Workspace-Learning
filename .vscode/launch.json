@@ -2,6 +2,18 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main"
+    },
+    {
+      "type": "java",
+      "name": "EntryClass",
+      "request": "launch",
+      "mainClass": "EntryClass"
+    },
+    {
+      "type": "java",
       "name": "Sorting",
       "request": "launch",
       "mainClass": "Sorting"
