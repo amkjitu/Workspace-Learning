@@ -17,3 +17,6 @@ DataScience/Jupyter Notebook/dataset/RiceLeafs_Resized
 
 #deep learning model savefile
 *.h5
+__pycache__/
+*.pyc
+*.pyo
