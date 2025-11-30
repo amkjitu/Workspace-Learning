@@ -1,0 +1,18 @@
+Parameter,Default,Range,Purpose
+model.conf_thresh,0.25,0.15-0.80,YOLOv10 detection confidence
+runtime.assoc_mode,epipolar,{epipolar,simple},matching strategy
+runtime.epi_tol_px,2,1-4,pixel-line distance gate
+runtime.simple_metric,v,{v,euclidean},fallback metric
+runtime.simple_max_dv,120,60-220,vertical gap gate (px)
+runtime.simple_max_dist,180,120-360,euclidean gate (px)
+runtime.max_pair_dt_ms,60,30-250,time skew tolerance (ms)
+runtime.max_triangulation_gap_m,0.30,0.10-0.50,stereo ray gap accept (m)
+runtime.unit_scale_m_per_world_unit,0.001,fixed,mm→m (Charuco units)
+runtime.min_box_area_px,200,0-500,reject tiny boxes
+filter.ema_alpha,0.40,0.20-0.80,EMA smoothing gain
+filter.use_kalman,false,{false,true},switch to KF
+filter.hyst_on,0.55,0.45-0.75,detection ON threshold
+filter.hyst_off,0.40,0.25-0.55,detection OFF threshold
+filter.min_persistence,3,1-5,frames before confirm
+anchor.mode,learned_then_heuristic,{learned_only,heuristic_only,learned_then_heuristic},anchor strategy
+anchor.heuristic_variant,fire_base_or_smoke_top,{fire_base,smoke_top,bbox_center},fallback rule

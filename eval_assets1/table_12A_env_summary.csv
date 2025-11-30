@@ -1,0 +1,5 @@
+Environment,Description,Samples,StereoDetections,StereoSharePct,MeanGap_m,P95Gap_m,MeanAbsHeight_m,P95AbsHeight_m,MeanConf,MedConf
+env1_charuco,A2 ChArUco board; baseline 0.5–0.8 m; cam height 0.7–0.8 m,150,142,94.7,0.0144,0.0216,0.047,0.029,0.813,0.81
+env2_indoor_baseline,Indoor lab 4×6 m; baseline 3.0–3.5 m; height 3.0–4.0 m,170,165,97.1,0.0109,0.0173,0.277,1.7913,0.8575,0.86
+env3_indoor_lowlight,Indoor low-light (backlight); geometry as env2,170,145,85.3,0.0198,0.0291,0.3207,1.9618,0.6929,0.69
+env4_semi_outdoor,Semi-outdoor 8×10 m; higher airflow + light,180,164,91.1,0.0151,0.0234,0.5566,2.3205,0.7641,0.78

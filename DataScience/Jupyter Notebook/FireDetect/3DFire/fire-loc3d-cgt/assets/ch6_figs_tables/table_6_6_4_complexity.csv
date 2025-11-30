@@ -1,0 +1,5 @@
+Stage,Operation,Comment
+Epipolar distance eval,O(N_L·N_R),Two dot-products per candidate + normalization
+Tie-break per left,O(k),k candidates after gating; small in practice
+Fallback nearest,O(N_L·N_R),Only when epipolar returns no candidates
+Optional Hungarian,O(n^3),"Use when many objects; n=min(N_L, N_R)"

@@ -1,0 +1,11 @@
+Symbol,Meaning,Default/Notes
+K,Camera intrinsics (3×3),"fx,fy,cx,cy"
+R,Rotation (world→cam),SO(3)
+T,Translation (world→cam),3×1
+C,Camera center in world (−RᵀT),Computed from extrinsics
+d,Unit ray direction in world,"From undistorted (u,v)"
+"Π: n,b",Floor plane (nᵀx + b = 0),"n≈[0,0,−1], b≈0 in board frame"
+X̂,Estimated 3D point,"Midpoint of P1,P2"
+g,Shortest segment length between rays,Used to accept stereo
+τ_gap,Gap acceptance threshold,0.05–0.30 m
+s,"Unit scale (e.g., 1e−3 for mm→m)",Set by calibration units

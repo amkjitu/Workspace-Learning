@@ -1,0 +1,9 @@
+Parameter,Default,Description
+assoc_mode,epipolar,Association mode: epipolar | simple | force
+epipolar_tol_px,2,Max distance to epipolar line (px)
+max_triangulation_gap_m,0.30,Ray-gap acceptance threshold (m)
+unit_scale_m_per_world_unit,0.001,World→meters scale (mm board)
+max_pair_dt_ms,60,Max time skew for pairing (ms)
+min_box_area_px,200,Min detection area to enter pipeline
+q_min,0.3,AnchorNet quality threshold
+p_out_th,0.5,Out-of-box probability threshold

@@ -1,0 +1,5 @@
+Environment,Stereo,Plane,Other,Total
+env1_charuco,142,8,0,150
+env2_indoor_baseline,165,5,0,170
+env3_indoor_lowlight,145,25,0,170
+env4_semi_outdoor,164,16,0,180

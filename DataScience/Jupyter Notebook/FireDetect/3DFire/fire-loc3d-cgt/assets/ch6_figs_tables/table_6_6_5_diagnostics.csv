@@ -1,0 +1,9 @@
+Field,Units,Meaning
+t,s (epoch),Mid-timestamp of paired frames
+"nL, nR",count,Detections per view in the frame
+mode,{epi|simple},Association path used
+"i*, j*",index,Chosen left/right indices
+d_epi_sym,px,Symmetric epipolar distance for pair
+"d_v, d_2",px,Vertical and Euclidean gaps (fallback)
+"conf_L, conf_R","[0,1]",Detector confidences for the pair
+"q_L, q_R","[0,1]",Anchor quality heads (if available)

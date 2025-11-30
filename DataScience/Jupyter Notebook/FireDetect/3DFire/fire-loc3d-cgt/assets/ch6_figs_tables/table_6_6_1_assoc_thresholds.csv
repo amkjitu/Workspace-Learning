@@ -1,0 +1,6 @@
+Key,Meaning,Recommended
+epi_tol_px,Symmetric pixel-to-line tolerance,1.5–2.5 px
+simple_max_dv,Vertical gap gate (fallback),80–160 px
+simple_max_dist,Euclidean gate (fallback),180–320 px
+ignore_class,Allow cross-class pairing (robustness),false (true in heavy smoke)
+history_len,Frames to prefer previous mate,5–10

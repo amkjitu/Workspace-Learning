@@ -1,0 +1,13 @@
+Parameter,Meaning,Default,Tuning Range
+EMA α0,Base smoothing factor,0.35,"[0.1, 0.7]"
+EMA αmin/αmax,Clamp range for αt,0.05 / 0.75,αmin<α0<αmax
+EMA βg,Gap penalty coefficient,3.0,"[1.0, 5.0]"
+KF σa,Process accel noise (m/s^2),1.0,"[0.5, 2.5]"
+KF gate τM,Chi-square gate (3 dof),11.34,≈ 99%
+τ_gap,Max stereo gap (m),0.2,"[0.15, 0.30]"
+τ_epi,Epipolar pixel-line tol (px),2.0,"[1.0, 3.0]"
+N_confirm,Frames to confirm track,3,"[2, 5]"
+M_miss,Frames to delete track,10,"[6, 20]"
+r_nms,3D merge radius (m),0.25,"[0.20, 0.35]"
+T_merge,Merge dwell (s),1.0,"[0.5, 2.0]"
+S_on/S_off,Hysteresis thresholds,0.65 / 0.50,S_off < S_on

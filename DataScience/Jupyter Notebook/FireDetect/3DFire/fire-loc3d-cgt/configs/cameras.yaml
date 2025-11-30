@@ -1,0 +1,52 @@
+# Left/Right camera RTSP endpoints → replace with your Dahua URLs
+left:
+  # rtsp: "rtsp://admin:L200461B@192.168.0.182:554/cam/realmonitor?channel=1&subtype=0"
+  rtsp: "rtsp://admin:L200461B@192.168.10.190:554/cam/realmonitor?channel=1&subtype=0"
+  # calib_file: "calib/cam_left.npz"   # produced by calib scripts
+  calib_file: "calib/cam_left_shared.npz"
+right:
+  # rtsp: "rtsp://admin:L2574467@192.168.0.151:554/cam/realmonitor?channel=1&subtype=0"
+  rtsp: "rtsp://admin:L2574467@192.168.10.155:554/cam/realmonitor?channel=1&subtype=0"
+  # calib_file: "calib/cam_right.npz"
+  calib_file: "calib/cam_right_shared.npz"
+
+model:
+  yolov10_weights: "best.pt"   # your trained fire/smoke model
+anchor:
+  weights: ""   # optional: "models/anchor_head.pth" after you train it
+runtime:
+  draw: true
+  draw_axes: true                 # <— new
+  draw_world_axes: true           # <— new
+  world_axes_every_n: 1         # <— new
+  axis_len_world: 200             # 150 mm (~15 cm axis arms)
+  world_origin_world: [0.0, 0.0, 0.0]   # ChArUco board origin
+  split_scale: 0.3
+
+  save_csv: "logs/pyroloc3d_log.csv"
+  
+  # # assoc_mode: "epipolar"    # "simple" or "epipolar"
+  # assoc_mode: "simple"    # "simple" or "epipolar"
+  # # max_pair_dt_ms: 30
+  # max_pair_dt_ms: 120
+  # simple_max_dv: 300
+  # epipolar_tol_px: 2.0
+  # min_box_area_px: 400
+  # unit_scale_m_per_world_unit: 0.001   # your Charuco used mm → m
+  # max_triangulation_gap_m: 0.30   # reject stereo if rays disagree by >30 cm
+
+  ### 4th version after edits debugging purpose ###
+  # assoc_mode: "force"        # <- force pairing to confirm triangulation path works
+  assoc_mode: "epipolar"        # <- force pairing to confirm triangulation path works
+  ignore_class: true
+  # ignore_class: false
+  epipolar_tol_px: 3.5
+  simple_metric: "euclidean"
+  simple_max_dist: 320       # generous gate; not used in force mode
+  simple_max_dv: 220         # generous gate for "v" mode
+  max_pair_dt_ms: 250
+
+  min_box_area_px: 80
+  unit_scale_m_per_world_unit: 0.001   # your Charuco used mm → m
+  max_triangulation_gap_m: 0.30   # reject stereo if rays disagree by >30 cm
+  show_indices: true

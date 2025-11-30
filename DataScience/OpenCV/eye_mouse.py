@@ -1,9 +1,10 @@
 import cv2
 import mediapipe as mp
 import pyautogui
+
 cam = cv2.VideoCapture(0)
 face_mesh = mp.solutions.face_mesh.FaceMesh(refine_landmarks=True)
-#face_mesh = mp.
+# face_mesh = mp.
 screen_w, screen_h = pyautogui.size()
 while True:
     _, frame = cam.read()
@@ -30,10 +31,10 @@ while True:
         if (left[0].y - left[1].y) < 0.004:
             pyautogui.click()
             pyautogui.sleep(1)
-    cv2.imshow('Eye Controlled Mouse', frame)
-    if cv2.waitKey(1) & 0xFF == ord('q'):
+    cv2.imshow("Eye Controlled Mouse", frame)
+    if cv2.waitKey(1) & 0xFF == ord("q"):
         break
 
-#release resources
+# release resources
 cam.release()
 cv2.destroyAllWindows()

@@ -1,0 +1,6 @@
+Component,Specification
+Cameras,2× Dahua indoor Wi-Fi (3MP)
+Lens,Fixed focus (factory)
+Calibration target,ChArUco 7×5; 30 mm squares; 15 mm markers; DICT_5X5_100
+Compute host,Laptop/Workstation (CPU; optional GPU)
+Network,Single LAN/Wi-Fi (RTSP/H.264)

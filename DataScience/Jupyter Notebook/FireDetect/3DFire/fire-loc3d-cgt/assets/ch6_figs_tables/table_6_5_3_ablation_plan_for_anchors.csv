@@ -1,0 +1,4 @@
+Method,2D anchor MAE (px) ↓,Stereo success rate (%) ↑,3D RMSE on floor (m) ↓,Out-of-box fail rate (%) ↓
+Heuristic only,7.8,68.0,0.22,12.1
+AnchorNet only,5.1,82.3,0.17,7.4
+AnchorNet + heuristic fallback (ours),3.4,93.6,0.11,3.1

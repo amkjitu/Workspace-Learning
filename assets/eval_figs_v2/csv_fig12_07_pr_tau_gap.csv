@@ -1,0 +1,161 @@
+env,sweep,tau,precision,recall
+Env1 — Charuco,tau_gap,0.02,1.0,0.8048780487804879
+Env1 — Charuco,tau_gap,0.03230769230769231,1.0,1.0
+Env1 — Charuco,tau_gap,0.04461538461538461,1.0,1.0
+Env1 — Charuco,tau_gap,0.05692307692307692,1.0,1.0
+Env1 — Charuco,tau_gap,0.06923076923076923,1.0,1.0
+Env1 — Charuco,tau_gap,0.08153846153846155,1.0,1.0
+Env1 — Charuco,tau_gap,0.09384615384615384,1.0,1.0
+Env1 — Charuco,tau_gap,0.10615384615384615,1.0,1.0
+Env1 — Charuco,tau_gap,0.11846153846153847,1.0,1.0
+Env1 — Charuco,tau_gap,0.13076923076923078,1.0,1.0
+Env1 — Charuco,tau_gap,0.14307692307692307,1.0,1.0
+Env1 — Charuco,tau_gap,0.15538461538461537,1.0,1.0
+Env1 — Charuco,tau_gap,0.16769230769230767,1.0,1.0
+Env1 — Charuco,tau_gap,0.18,1.0,1.0
+Env1 — Charuco,tau_gap,0.1923076923076923,1.0,1.0
+Env1 — Charuco,tau_gap,0.20461538461538462,1.0,1.0
+Env1 — Charuco,tau_gap,0.2169230769230769,1.0,1.0
+Env1 — Charuco,tau_gap,0.2292307692307692,1.0,1.0
+Env1 — Charuco,tau_gap,0.24153846153846154,1.0,1.0
+Env1 — Charuco,tau_gap,0.25384615384615383,1.0,1.0
+Env1 — Charuco,tau_gap,0.2661538461538462,1.0,1.0
+Env1 — Charuco,tau_gap,0.2784615384615385,1.0,1.0
+Env1 — Charuco,tau_gap,0.2907692307692308,1.0,1.0
+Env1 — Charuco,tau_gap,0.3030769230769231,1.0,1.0
+Env1 — Charuco,tau_gap,0.3153846153846154,1.0,1.0
+Env1 — Charuco,tau_gap,0.3276923076923077,1.0,1.0
+Env1 — Charuco,tau_gap,0.34,1.0,1.0
+Env1 — Charuco,tau_gap,0.3523076923076923,1.0,1.0
+Env1 — Charuco,tau_gap,0.3646153846153846,1.0,1.0
+Env1 — Charuco,tau_gap,0.3769230769230769,1.0,1.0
+Env1 — Charuco,tau_gap,0.38923076923076927,1.0,1.0
+Env1 — Charuco,tau_gap,0.40153846153846157,1.0,1.0
+Env1 — Charuco,tau_gap,0.41384615384615386,1.0,1.0
+Env1 — Charuco,tau_gap,0.42615384615384616,1.0,1.0
+Env1 — Charuco,tau_gap,0.43846153846153846,1.0,1.0
+Env1 — Charuco,tau_gap,0.4507692307692308,1.0,1.0
+Env1 — Charuco,tau_gap,0.4630769230769231,1.0,1.0
+Env1 — Charuco,tau_gap,0.4753846153846154,1.0,1.0
+Env1 — Charuco,tau_gap,0.4876923076923077,1.0,1.0
+Env1 — Charuco,tau_gap,0.5,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.02,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.03230769230769231,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.04461538461538461,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.05692307692307692,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.06923076923076923,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.08153846153846155,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.09384615384615384,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.10615384615384615,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.11846153846153847,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.13076923076923078,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.14307692307692307,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.15538461538461537,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.16769230769230767,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.18,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.1923076923076923,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.20461538461538462,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.2169230769230769,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.2292307692307692,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.24153846153846154,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.25384615384615383,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.2661538461538462,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.2784615384615385,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.2907692307692308,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.3030769230769231,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.3153846153846154,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.3276923076923077,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.34,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.3523076923076923,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.3646153846153846,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.3769230769230769,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.38923076923076927,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.40153846153846157,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.41384615384615386,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.42615384615384616,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.43846153846153846,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.4507692307692308,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.4630769230769231,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.4753846153846154,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.4876923076923077,1.0,1.0
+Env2 — Indoor Baseline,tau_gap,0.5,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.02,1.0,0.5689655172413793
+Env3 — Indoor Low-light,tau_gap,0.03230769230769231,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.04461538461538461,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.05692307692307692,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.06923076923076923,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.08153846153846155,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.09384615384615384,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.10615384615384615,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.11846153846153847,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.13076923076923078,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.14307692307692307,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.15538461538461537,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.16769230769230767,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.18,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.1923076923076923,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.20461538461538462,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.2169230769230769,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.2292307692307692,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.24153846153846154,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.25384615384615383,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.2661538461538462,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.2784615384615385,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.2907692307692308,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.3030769230769231,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.3153846153846154,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.3276923076923077,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.34,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.3523076923076923,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.3646153846153846,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.3769230769230769,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.38923076923076927,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.40153846153846157,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.41384615384615386,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.42615384615384616,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.43846153846153846,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.4507692307692308,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.4630769230769231,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.4753846153846154,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.4876923076923077,1.0,1.0
+Env3 — Indoor Low-light,tau_gap,0.5,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.02,1.0,0.75
+Env4 — Semi-outdoor,tau_gap,0.03230769230769231,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.04461538461538461,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.05692307692307692,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.06923076923076923,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.08153846153846155,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.09384615384615384,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.10615384615384615,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.11846153846153847,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.13076923076923078,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.14307692307692307,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.15538461538461537,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.16769230769230767,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.18,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.1923076923076923,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.20461538461538462,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.2169230769230769,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.2292307692307692,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.24153846153846154,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.25384615384615383,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.2661538461538462,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.2784615384615385,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.2907692307692308,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.3030769230769231,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.3153846153846154,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.3276923076923077,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.34,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.3523076923076923,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.3646153846153846,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.3769230769230769,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.38923076923076927,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.40153846153846157,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.41384615384615386,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.42615384615384616,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.43846153846153846,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.4507692307692308,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.4630769230769231,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.4753846153846154,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.4876923076923077,1.0,1.0
+Env4 — Semi-outdoor,tau_gap,0.5,1.0,1.0

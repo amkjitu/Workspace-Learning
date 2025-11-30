@@ -1,0 +1,5 @@
+Failure / Symptom,Likely cause,Fallback,Extra action
+No epipolar candidates,Desync / packet loss / weak anchors,Simple nearest (dv/d2) with gates,"Lower q_min, increase α_track, widen gates slightly"
+Many ties on epipolar line,Multiple similar plumes along epipolar,"Tie-break with conf, area, history",Enable Hungarian assignment if dense
+Drifting associations over time,Unstable anchors or glare,History preference (hysteresis),Stronger temporal smoothing; raise q_min
+Systematic epipolar residual > τ,Miscalibration / moved camera,Temporary fallback to simple,Trigger re-calibration / sanity checks (§13)

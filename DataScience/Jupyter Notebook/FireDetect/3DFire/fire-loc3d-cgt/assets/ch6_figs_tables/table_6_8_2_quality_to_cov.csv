@@ -1,0 +1,6 @@
+Term,Definition / Rule,Default,Notes
+"βq, βc","Sigmoid sharpness for (q,c)",6.0,Higher → stronger effect
+"q_min, c_min",Neutral midpoints,0.4,Raise for stricter fusion
+R inflate (gap),"Scale R by (1+γg*min(1,g/τ_gap))",γg=1.0,"γg in [0.5, 2.0]"
+Plane mode,Set σZ→∞ (z unobserved),Enabled,Holds z in KF
+Confidence mix,R ← R/(ηq ηc + ε),ε=1e-3,Clamp to avoid blow-up

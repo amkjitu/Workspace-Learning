@@ -1,0 +1,8 @@
+Module,Desktop_ms,Edge_ms,Notes
+Perception (YOLOv10 + AnchorNet),12.0,20.0,INT8/FP16 accelerated on GPU/NPU
+Cross-view association,2.0,3.0,Epipolar candidates + gating
+Triangulation,1.0,2.0,LS ray–ray; tiny cost per pair
+Smoothing & fusion,0.8,1.2,EMA or light Kalman
+Visualization (GUI/axes),3.0,6.0,Split-view + per-event axes
+I/O & overhead,1.2,2.8,RTSP decode, copies, logging
+Total,20.0,35.0,"≈50 FPS desktop, ≈28 FPS edge"

@@ -1,0 +1,7 @@
+Key,Action
+H,Toggle HUD
+E,Toggle epipolar lines
+A,Toggle world & per-event axes
+B,Toggle detection boxes/anchors
+S,Snapshot (PNG + CSV row)
+Esc,Quit

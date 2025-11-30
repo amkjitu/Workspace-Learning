@@ -1,0 +1,8 @@
+Component,Definition / Value,Default
+λ1 (3D dist),Weight on ||ẑ - x̂||,1.0
+λ2 (height),Weight on |h_track - h_obs|,0.5
+λ3 (class),Penalty for class mismatch,2.0
+λ4 (quality),Penalty on (1-ηqηc),0.7
+Gate τM,Mahalanobis gate (3 dof),11.34
+Gate τ_gap,Stereo gap (m),0.2
+Solver switch,Hungarian if (n_tracks+n_obs)≤10 else greedy,—

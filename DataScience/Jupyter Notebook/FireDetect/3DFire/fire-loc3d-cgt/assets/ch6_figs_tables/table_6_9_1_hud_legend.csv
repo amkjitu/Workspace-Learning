@@ -1,0 +1,8 @@
+Element,Example,Units,Meaning / Notes
+mode,stereo / plane,—,Stereo if pair accepted; floor-intersect fallback otherwise.
+"x,y,z","0.524, −0.178, 0.000",m,World coordinates at event point (meters).
+height,0.000,m,Signed distance from floor plane (+ up).
+gap,0.12,m,Stereo mid-segment gap (lower is better; thresholded).
+epi_err,1.8,px,Pixel–line distance on epipolar line (lower is better).
+Anchors,"uL,vL / uR,vR",px,Left/right anchor coordinates.
+Axes color,"X=Red, Y=Green, Z=Blue",—,RGB triad convention.

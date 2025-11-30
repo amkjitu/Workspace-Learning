@@ -1,0 +1,6 @@
+Check,Symptom,Action
+Parallel rays,1−(d1·d2)^2 ≈ 0,Reject stereo; fallback to plane
+Huge gap (g>τ_gap),Inconsistent geometry / mismatch,Reject stereo; fallback to plane
+Ray ‖ plane (n·d≈0),No stable floor intersection,Defer or clamp; wait next frame
+Out-of-volume,X̂ outside operating box,Discard; keep last stable estimate
+Low anchor quality,Unstable or off-center anchors,Skip or downweight in fusion

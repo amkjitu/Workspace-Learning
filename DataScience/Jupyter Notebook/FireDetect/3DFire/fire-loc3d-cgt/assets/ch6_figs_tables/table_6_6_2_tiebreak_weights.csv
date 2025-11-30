@@ -1,0 +1,7 @@
+Feature,Symbol,Weight,Role
+Symmetric epipolar distance,d_epi,0.6,primary (lower better)
+Vertical gap,d_v,0.2,secondary penalty
+Euclidean gap,d_2,0.2,secondary penalty
+Confidence product,conf_L·conf_R,-0.2,bonus (higher better)
+Area similarity,|log(A_L/A_R)|,0.1,weak penalty
+Anchor quality sum,q_L+q_R,-0.1,bonus (higher better)

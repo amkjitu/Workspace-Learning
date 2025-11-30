@@ -1,0 +1,4 @@
+Head,Output,Target range,Loss,Training signal,Notes
+Offsets,"Δû, Δv̂","[-0.5, 0.5] (ROI-normalized)","Huber (δ=1)","Pseudo-labels from §6.3.1","Clamped at inference; rescaled to pixels"
+Quality,q,"[0, 1]","Binary cross-entropy","Detector conf & geometric consistency","Weights fusion and temporal smoothing"
+Out-of-Box,p_out,"[0, 1]","Binary cross-entropy","In-box vs out-of-box mask","If p_out>th or anchor outside bbox ⇒ heuristic"

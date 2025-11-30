@@ -1,0 +1,7 @@
+Parameter,Value,Rationale
+τ_gap,0.05–0.30 m,"Looser at long range, tighter near"
+s (unit scale),1e−3 (mm→m),ChArUco sizes in mm
+Undistort anchors,Yes,Reduces model bias at wide FOV
+Confidence θ (fire),0.50,Suppress low-quality triangulations
+Confidence θ (smoke),0.60,Smoke harder → stricter gate
+q_min (AnchorNet),0.30,Filter unreliable anchors

@@ -1,0 +1,11 @@
+Module,Complexity,Drivers
+Preprocess/resize,O(P),image pixels P=H*W
+YOLOv10 forward,O(P),(FLOPs-bounded) feature pyramid
+NMS,O(K log K),K per-class candidates
+AnchorNet head,O(K),one forward per detection
+Epipolar candidate gen,O(n_L n_R),pairwise pixel-line distances
+Gate + tie-break,O(n_L n_R),thresholds + argmin
+Triangulation,O(M),M matched pairs
+Smoothing/track update,O(M),EMA/Kalman per track
+Visualization/OSD,O(M),overlay per event
+Logging,O(M),per-event row write

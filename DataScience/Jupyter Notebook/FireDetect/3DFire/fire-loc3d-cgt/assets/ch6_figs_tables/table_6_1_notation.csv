@@ -1,0 +1,12 @@
+Symbol,Meaning
+K,3×3 camera intrinsic matrix
+"R, T",Rotation and translation (world→camera)
+C,Camera center = -RᵀT (world units)
+F,Fundamental matrix between the two views
+"(u,v)","Pixel coordinates (column, row)"
+"Δu, Δv",AnchorNet 2D offset within the detection box
+q,AnchorNet confidence for the predicted anchor
+p_out,Probability anchor lies outside the box
+d,Unit ray direction in world coordinates
+gap,Shortest distance between the two rays (meters)
+h,Height above the calibrated floor plane (meters)

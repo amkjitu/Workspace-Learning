@@ -1,0 +1,7 @@
+Stage,Rule,Default
+Birth,Unmatched obs passing gates spawns tentative track,—
+Confirm,3 consecutive matched updates OR S>S_on,N_confirm=3
+Maintain,EMA+KF updates; miss counter reset on match,—
+Downgrade,Quality score Q below Qmin for M frames,"Qmin≈0.4, M=5"
+Death,Miss counter exceeds M_miss,M_miss=10
+Hysteresis,Switch Active↔Inactive using S_on/S_off bands,0.65/0.50

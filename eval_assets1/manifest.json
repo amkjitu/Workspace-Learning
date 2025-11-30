@@ -1,0 +1,28 @@
+{
+  "tables": {
+    "Table 12.A \u2014 Environment Summary": "eval_assets\\table_12A_env_summary.csv",
+    "Table 12.B \u2014 Stereo Acceptance vs tau_gap": "eval_assets\\table_12B_gap_acceptance.csv",
+    "Table 12.C \u2014 Mode Breakdown": "eval_assets\\table_12C_mode_breakdown.csv"
+  },
+  "figures": [
+    "eval_assets\\figs\\fig_12_02_scenario_matrix.png",
+    "eval_assets\\figs\\fig_12_03_cdf_height_env1_charuco.png",
+    "eval_assets\\figs\\fig_12_03_cdf_height_env2_indoor_baseline.png",
+    "eval_assets\\figs\\fig_12_03_cdf_height_env3_indoor_lowlight.png",
+    "eval_assets\\figs\\fig_12_03_cdf_height_env4_semi_outdoor.png",
+    "eval_assets\\figs\\fig_12_04_height_boxplot.png",
+    "eval_assets\\figs\\fig_12_07_tau_gap_tradeoff_env1_charuco.png",
+    "eval_assets\\figs\\fig_12_07_tau_gap_tradeoff_env2_indoor_baseline.png",
+    "eval_assets\\figs\\fig_12_07_tau_gap_tradeoff_env3_indoor_lowlight.png",
+    "eval_assets\\figs\\fig_12_07_tau_gap_tradeoff_env4_semi_outdoor.png",
+    "eval_assets\\figs\\fig_12_08_stereo_share_time_env1_charuco.png",
+    "eval_assets\\figs\\fig_12_08_stereo_share_time_env2_indoor_baseline.png",
+    "eval_assets\\figs\\fig_12_08_stereo_share_time_env3_indoor_lowlight.png",
+    "eval_assets\\figs\\fig_12_08_stereo_share_time_env4_semi_outdoor.png",
+    "eval_assets\\figs\\fig_12_10_fps_hist_env1_charuco.png",
+    "eval_assets\\figs\\fig_12_10_fps_hist_env2_indoor_baseline.png",
+    "eval_assets\\figs\\fig_12_10_fps_hist_env3_indoor_lowlight.png",
+    "eval_assets\\figs\\fig_12_10_fps_hist_env4_semi_outdoor.png",
+    "eval_assets\\figs\\fig_12_X_modes_bar.png"
+  ]
+}

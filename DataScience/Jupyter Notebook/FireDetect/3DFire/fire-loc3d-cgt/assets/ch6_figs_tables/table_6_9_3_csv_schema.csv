@@ -1,0 +1,11 @@
+Field,Type,Units,Description
+t,float,s,UNIX time (mid-pairing)
+class,str,—,fire / smoke
+conf,float,"[0,1]",Left-view detection confidence
+"uL,vL",float,px,Left anchor
+"uR,vR",float,px,Right anchor (NaN in plane mode)
+"x,y,z",float,m,World coordinates
+mode,str,—,stereo or plane
+gap,float,m,Stereo mid-segment gap (NaN in plane mode)
+epi_err,float,px,Epipolar error (NaN in plane mode)
+height,float,m,Signed floor distance
